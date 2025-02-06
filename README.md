@@ -118,4 +118,4 @@ Contributions welcome. See CONTRIBUTING.md.
 
 ## Disclaimer
 
-This is not an officially supported Google product.
+This is not an officially supported Obsidian plugin.
